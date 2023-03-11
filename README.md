@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Start Here https://www.taniarascia.com/getting-started-with-react/#submitting-form-data
+
+A Great Big Thank you to Tania Rasica for posting this Blog!
+
 ## Available Scripts
 
 In the project directory, you can run:
